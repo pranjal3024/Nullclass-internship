@@ -1,10 +1,15 @@
 {
-  "dependencies": {
-    "gapi-script": "^1.2.0",
-    "react-scripts": "^3.0.1"
-  },
-  "scripts": {
-    "build": "react-scripts build ",
-    "Homepage": "./client/public"
-  }
+    "dependencies": {
+        "gapi-script": "^1.2.0",
+        "react": "^17.0.0",
+        "react-dom": "^17.0.0",
+        "react-scripts": "^3.0.1"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "homepage": "./"
 }
